@@ -1,0 +1,12 @@
+Length:2
+LCS:NG
+Length:4
+LCS:RGWM
+Length:6
+LCS:ITWTKS
+Length:6
+LCS:SVJPSJ
+Length:7
+LCS:LIVBAMA
+Length:5
+LCS:BWYDY
